@@ -13,4 +13,13 @@ for(let i = 1; i<= 10; i++){
     }
 }
 console.log("end");
-console.log("")
+console.log("here we have done the programme of a table")
+console.log("lets start to do new programe to Fid the sum of first n numbers")
+let sum =0;
+for (let i =1; i<=5; i++){
+    sum = sum + i;
+}
+console.log("sum =", sum);
+console.log("the loop has ended")
+
+
