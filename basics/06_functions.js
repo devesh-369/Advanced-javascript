@@ -39,3 +39,4 @@ function countVowels(str){
     console.log(count)
 }
 countVowels("Devesh Pathak Skill up");
+console.log("done");
